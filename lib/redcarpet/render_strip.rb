@@ -40,7 +40,7 @@ module Redcarpet
         text + "\n"
       end
 
-      def header(text, header_level)
+      def header(text, header_level, anchor)
         text + "\n"
       end
     end

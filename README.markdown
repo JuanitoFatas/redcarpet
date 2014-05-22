@@ -234,7 +234,7 @@ end
 * block_html(raw_html)
 * footnotes(content)
 * footnote_def(content, number)
-* header(text, header_level)
+* header(text, header_level, anchor)
 * hrule()
 * list(contents, list_type)
 * list_item(text, list_type)
